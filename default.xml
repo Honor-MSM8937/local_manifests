@@ -5,7 +5,7 @@
             fetch="https://github.com/Honor-MSM8937" />
 
     <!-- Clone our device tree. -->
-    <project name="android_device_honor_msm8937_64-recovery" path="device/android/msm8937_64" remote="msm8937" revision="twrp-11.0" />
+    <project name="android_device_honor_msm8937_64-recovery" path="device/honor/msm8937_64" remote="msm8937" revision="twrp-11.0" />
 
 </manifest>
 
